@@ -15,7 +15,7 @@ describe('demo calculator tests', function(){
         homePage.clickGo();
         homePage.verifyResult('11');
 
-        browser.sleep(2000);
+        browser.sleep(3000);
 
         
 
